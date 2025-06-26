@@ -2,9 +2,9 @@
 
 ## "About the Project"
 
-Sometimes we all go through tough days — feeling anxious, stressed, or just low. But not everyone feels comfortable opening up to someone. That’s why I built "MindMate", a chatbot that understands how you're feeling and offers supportive responses. It uses AI to detect emotions and sentiment in your messages and replies with kindness — just like a friend who listens.
+Sometimes we all go through tough days — feeling anxious, stressed, or just low. But not everyone feels comfortable opening up to someone. That’s why I built "FeelFree", a chatbot that understands how you're feeling and offers supportive responses. It uses AI to detect emotions and sentiment in your messages and replies with kindness — just like a friend who listens.
 
-If things feel too intense, the chatbot even recommends professional help. Whether you're a student under pressure or anyone who just needs to vent, MindMate is here for you.
+If things feel too intense, the chatbot even recommends professional help. Whether you're a student under pressure or anyone who just needs to vent, FeelFree is here for you.
 
 ---
 
