@@ -1,5 +1,4 @@
-# FeelFree
-# "MindMate – Your Emotional Support Chatbot"
+# "FeelFree – Your Emotional Support Chatbot"
 
 ## "About the Project"
 
