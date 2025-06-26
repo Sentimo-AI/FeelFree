@@ -70,7 +70,8 @@ Mental health is personal. I’ve seen friends and classmates struggle silently 
 
 If you’d like to connect or give feedback:  
 GitHub: https://github.com/Varshitha2323
-GitHub: https:https://github.com/subashini092
+
+GitHub: https://github.com/subashini092
 
 
 
